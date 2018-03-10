@@ -1,0 +1,10 @@
+C:\Users\Tri Cho Dien\Desktop\angular-5\Project_QLPK\Project_DAL\bin\Debug\Project_DAL.dll.config
+C:\Users\Tri Cho Dien\Desktop\angular-5\Project_QLPK\Project_DAL\bin\Debug\Project_DAL.dll
+C:\Users\Tri Cho Dien\Desktop\angular-5\Project_QLPK\Project_DAL\bin\Debug\Project_DAL.pdb
+C:\Users\Tri Cho Dien\Desktop\angular-5\Project_QLPK\Project_DAL\bin\Debug\EntityFramework.dll
+C:\Users\Tri Cho Dien\Desktop\angular-5\Project_QLPK\Project_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tri Cho Dien\Desktop\angular-5\Project_QLPK\Project_DAL\bin\Debug\EntityFramework.xml
+C:\Users\Tri Cho Dien\Desktop\angular-5\Project_QLPK\Project_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tri Cho Dien\Desktop\angular-5\Project_QLPK\Project_DAL\obj\Debug\Project_DAL.dll
+C:\Users\Tri Cho Dien\Desktop\angular-5\Project_QLPK\Project_DAL\obj\Debug\Project_DAL.pdb
+C:\Users\Tri Cho Dien\Desktop\angular-5\Project_QLPK\Project_DAL\obj\Debug\Project_DAL.csprojResolveAssemblyReference.cache

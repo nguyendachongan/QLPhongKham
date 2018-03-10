@@ -1,0 +1,8 @@
+C:\Users\Tri Cho Dien\Desktop\angular-5\Project_QLPK\Project_WcfService\bin\Project_WcfService.dll.config
+C:\Users\Tri Cho Dien\Desktop\angular-5\Project_QLPK\Project_WcfService\bin\Project_WcfService.dll
+C:\Users\Tri Cho Dien\Desktop\angular-5\Project_QLPK\Project_WcfService\bin\Project_WcfService.pdb
+C:\Users\Tri Cho Dien\Desktop\angular-5\Project_QLPK\Project_WcfService\bin\Project_DAL.dll
+C:\Users\Tri Cho Dien\Desktop\angular-5\Project_QLPK\Project_WcfService\bin\Project_DAL.pdb
+C:\Users\Tri Cho Dien\Desktop\angular-5\Project_QLPK\Project_WcfService\obj\Debug\Project_WcfService.csprojResolveAssemblyReference.cache
+C:\Users\Tri Cho Dien\Desktop\angular-5\Project_QLPK\Project_WcfService\obj\Debug\Project_WcfService.dll
+C:\Users\Tri Cho Dien\Desktop\angular-5\Project_QLPK\Project_WcfService\obj\Debug\Project_WcfService.pdb
